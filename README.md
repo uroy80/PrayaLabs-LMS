@@ -215,6 +215,3 @@ For support and questions:
 - **v1.1.0** - Added PWA features and enhanced search
 - **v1.2.0** - Improved authentication and session management
 - **v1.3.0** - Added debug tools and enhanced error handling
-
-```
-By Usham Roy
