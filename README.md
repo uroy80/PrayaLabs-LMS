@@ -1,7 +1,8 @@
 # Library Management System [LMS]
 
-##### Created By : Praya Labs
-##### Developed By : Usham Roy
+Created By : Praya Labs
+
+Developed By : Usham Roy
 
 ## Features
 
