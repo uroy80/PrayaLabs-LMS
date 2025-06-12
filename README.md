@@ -216,12 +216,5 @@ For support and questions:
 - **v1.2.0** - Improved authentication and session management
 - **v1.3.0** - Added debug tools and enhanced error handling
 
-##  Acknowledgments
-
-- Built with [Next.js](https://nextjs.org/)
-- UI components from [shadcn/ui](https://ui.shadcn.com/)
-- Icons from [Lucide](https://lucide.dev/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
 ```
-
-These files provide comprehensive documentation and proper Git configuration for your library management system project.
+By Usham Roy
