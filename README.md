@@ -1,7 +1,8 @@
 # Library Management System
 
 ##### Created By : Praya Labs
-##### Developed By : Usham Roy
+###### Developed By : Usham Roy
+
 ## Features
 
 ### Core Functionality
