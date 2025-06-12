@@ -104,7 +104,7 @@ npm start
 └── types/               # TypeScript type definitions
 ```
 
-## 🔌 API Integration
+## API Integration
 
 ### Authentication Flow
 1. **Login**: `POST /web/user/login?_format=json`
@@ -122,7 +122,7 @@ npm start
 - **User Profile**: `GET /web/user/profile?_format=json`
 - **Borrowed Books**: `GET /web/user/borrowed?_format=json`
 
-## 🔧 Configuration
+## Configuration
 
 ### API Proxy
 The application uses a proxy endpoint (`/api/proxy`) to handle CORS issues and centralize API communication.
@@ -152,7 +152,7 @@ The application includes comprehensive debug tools accessible through the Debug 
 - **Username**: Alana Rivers
 - **Password**: a
 
-## 📱 PWA Features
+## PWA Features
 
 ### Installation
 Users can install the app on their devices for a native-like experience.
