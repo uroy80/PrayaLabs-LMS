@@ -183,7 +183,7 @@ Users can install the app on their devices for a native-like experience.
 ### VPS (Recommended)
 ```bash
 npm run build
-vercel --prod
+
 ```
 
 ### Docker
